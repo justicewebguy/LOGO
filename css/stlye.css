@@ -24,11 +24,13 @@ html{
 .btn{
     background-color: var(--colour-primary);
     color: white;
-    padding: 10px 25px;
+    padding:5px 25px;
     cursor: pointer;
     text-decoration: none;
     border: none;
 }
+
+
 /* NAVATION STARTS */
 .nav-brand{
     text-decoration: none;
